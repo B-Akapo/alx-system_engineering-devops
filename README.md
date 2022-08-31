@@ -1,1 +1,1 @@
-Practicing shell scripting
+Shell and Shell scripting
